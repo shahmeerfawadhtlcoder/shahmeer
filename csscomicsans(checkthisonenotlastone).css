@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(124, 93, 173);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+  }
